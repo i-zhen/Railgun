@@ -1,5 +1,5 @@
 /*
- * Created by idealnova
+ * Created by iamzhen
  * Version 0.02 2012-3-19
  * Only used for linux/unix/MAC OS
  * Open Source
