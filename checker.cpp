@@ -10,7 +10,7 @@ char _name1[SIZE];
 char _name2[SIZE]="ans";
 
 int main(int argc,char **argv){
-	string	str_1="", str_2="";
+	string str_1="", str_2="";
 	
 	strcat(_name1,argv[1]);
 	strcat(_name1,argv[2]);
