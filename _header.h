@@ -14,9 +14,8 @@
 #include<sys/wait.h>
 #include<sys/resource.h>
 #include<sys/times.h>
-#include <sys/ptrace.h>
-#include <asm/ptrace-abi.h>
+#include<sys/ptrace.h>
+#include<asm/ptrace-abi.h>
 
 #else
-
 #endif
