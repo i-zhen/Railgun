@@ -2,6 +2,7 @@
 #define SIZE 256
 using namespace std;
 
+// configuration setting here
 int main(int argc,char **argv){
     pid_t pid_C = -1;
     int status = 0;
